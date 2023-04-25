@@ -5,8 +5,7 @@ I am student in Informatio Technology Department at Faculty of Science Minia Uni
 
 * 🚀  I'm currently working on [Instructor Flutter instructor](http://www.facebook.com/profile.php?id=100090574053947)
 * 🔭 I’m currently working on Mission
-<a href="https://www.linkedin.com/in/waleed-ashraf-0483571b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+
 <!--
 **ledo2750/ledo2750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
