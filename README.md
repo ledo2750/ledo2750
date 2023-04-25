@@ -6,10 +6,11 @@ I am student in Informatio Technology Department at Faculty of Science Minia Uni
 * 🚀  I'm currently working on [Instructor Flutter instructor](http://www.facebook.com/profile.php?id=100090574053947)
 * 🔭 I’m currently working on Mission
 ##  My Social Media
-<a href="https://www.linkedin.com/in/waleed-ashraf-0483571b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/waleed-ashraf-0483571b4/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)]()
+[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 <!--
 **ledo2750/ledo2750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
